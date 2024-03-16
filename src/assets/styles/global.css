@@ -21,3 +21,16 @@
     font-family: "Helvetica Neue Light";
     src: url("../fonts/HelveticaNeueLight.otf");
 }
+.fontBlod{
+    font-family: "Helvetica Neue Bold";
+}
+.fontMedium{
+    font-family: "Helvetica Neue Medium";
+}
+.fontRoman{
+    font-family: "Helvetica Neue Roman";
+}
+.fontLight{
+    font-family: "Helvetica Neue Light";
+
+}
