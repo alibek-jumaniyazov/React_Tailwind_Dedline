@@ -4,7 +4,7 @@ import SerachHeader from './SerachHeader'
 
 export default function Header() {
   return (
-    <div className='Header flex'>
+    <div className='Header flex flex-col justify-center items-start px-6 gap-4'>
         <Navbar/>
         <SerachHeader/>
     </div>

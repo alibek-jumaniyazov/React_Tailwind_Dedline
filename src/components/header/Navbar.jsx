@@ -6,7 +6,7 @@ import heart from "../../assets/icons/heart.svg";
 
 export default function Navbar() {
   return (
-    <div className="Navbar flex justify-between items-center w-full p-7">
+    <div className="Navbar flex justify-between items-center w-full border-b border-[#E1DFDA] h-20">
       <div className="flex gap-5 fontRoman text-sm ">
         <img src={logo} alt="" />
         <div className="flex gap-4 justify-center items-center">
