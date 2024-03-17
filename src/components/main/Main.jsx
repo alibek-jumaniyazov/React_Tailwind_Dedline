@@ -7,6 +7,7 @@ import CompanyWath from './CompanyWath'
 import OrderUser from './OrderUser'
 import CompanyFriends from './CompanyFriends'
 import OrderInstruction from './OrderInstruction'
+import ImagesProduct from './ImagesProduct'
 
 export default function Main() {
   return (
@@ -19,6 +20,7 @@ export default function Main() {
         <OrderUser/>
         <CompanyFriends/>
         <OrderInstruction/>
+        <ImagesProduct/>
     </div>
   )
 }

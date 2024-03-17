@@ -1,4 +1,4 @@
-import logo from "../../assets/icons/logo.svg";
+import logo from "../../assets/icons/Logo.svg";
 import phoneIcon from "../../assets/icons/phoneIcon.svg";
 import emailIcon from "../../assets/icons/emailIcon.svg";
 import location from "../../assets/icons/location.svg";
