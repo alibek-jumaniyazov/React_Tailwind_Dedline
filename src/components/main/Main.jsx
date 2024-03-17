@@ -3,6 +3,7 @@ import BannerSale from './BannerSale'
 import PagesRout from './PagesRout'
 import ProductAbouts from './ProductAbouts'
 import CompanyInfos from './CompanyInfos'
+import CompanyWath from './CompanyWath'
 
 export default function Main() {
   return (
@@ -11,7 +12,7 @@ export default function Main() {
         <PagesRout/>
         <ProductAbouts/>
         <CompanyInfos/>
-        
+        <CompanyWath/>
     </div>
   )
 }
