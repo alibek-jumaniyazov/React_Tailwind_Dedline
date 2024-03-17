@@ -8,6 +8,7 @@ import OrderUser from './OrderUser'
 import CompanyFriends from './CompanyFriends'
 import OrderInstruction from './OrderInstruction'
 import ImagesProduct from './ImagesProduct'
+import MainText from './MainText'
 
 export default function Main() {
   return (
@@ -21,6 +22,7 @@ export default function Main() {
         <CompanyFriends/>
         <OrderInstruction/>
         <ImagesProduct/>
+        <MainText/>
     </div>
   )
 }

@@ -16,7 +16,7 @@ import Pimg14 from "../../assets/images/Pimg14.png";
 
 export default function ImagesProduct() {
   return (
-    <div className="ImagesProduct flex flex-col justify-center items-start gap-5 p-9">
+    <div className="ImagesProduct flex flex-col justify-center items-start gap-5 ">
       <div className="w-full flex gap-5">
         <div className="flex flex-col justify-center items-start gap-6">
           <div className="flex flex-col justify-center items-start gap-6">
@@ -24,7 +24,7 @@ export default function ImagesProduct() {
               Сувенирная продукция
             </p>
             <span className="text-lg fontRoman w-[450px]">
-              Каталог «от ручки до ракеты» «от промо до VIP» Более{" "}
+              Каталог «от ручки до ракеты» «от промо до VIP» Более
               <span className="fontMedium"> 1 000 000 </span>
               бизнес сувениров со всего мира
             </span>
