@@ -9,7 +9,7 @@ import katalogImg6 from "../../assets/images/katalog1.png";
 import katalogImg7 from "../../assets/images/katalog1.png";
 import PrezintatsiyaSale from "./PrezintatsiyaSale";
 
-export default function ProductAbout() {
+export default function ProductAboutTow() {
   return (
     <div className="ProductAbout w-full">
       <div className="flex justify-between items-center">
