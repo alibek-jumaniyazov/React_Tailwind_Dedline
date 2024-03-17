@@ -10,6 +10,7 @@ export default function Home() {
       <div className="p-6">
         <Main />
       </div>
+      <FooterAnimation/>
       <Footer />
     </div>
   );
