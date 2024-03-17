@@ -6,7 +6,7 @@ export default function CompanyInfos() {
       <h1 className="fontMedium text-3xl text-[#0000B0]">Кто мы?</h1>
       <div className="fontRoman flex flex-col justify-center items-start gap-7 ml-24">
         <p>Позвольте нам представить себя:</p>
-        <ul className="flex flex-col justify-center items-start gap-5 list-disc text-base w-[65%]">
+        <ul className="flex flex-col justify-center items-start gap-5 list-disc text-base w-[52%]">
           <li className="text-[#0000B0]">
             <p className="text-black">  
               Maldex– это комплексный сервис по производству сувенирной
