@@ -2,6 +2,7 @@ import React from "react";
 import Header from "../components/header/Header";
 import Footer from "../components/footer/Footer";
 import Main from "../components/main/Main";
+import FooterAnimation from "../components/footer/FooterAnimation";
 
 export default function Home() {
   return (
