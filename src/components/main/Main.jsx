@@ -4,6 +4,7 @@ import PagesRout from './PagesRout'
 import ProductAbouts from './ProductAbouts'
 import CompanyInfos from './CompanyInfos'
 import CompanyWath from './CompanyWath'
+import OrderUser from './OrderUser'
 
 export default function Main() {
   return (
@@ -13,6 +14,7 @@ export default function Main() {
         <ProductAbouts/>
         <CompanyInfos/>
         <CompanyWath/>
+        <OrderUser/>
     </div>
   )
 }
