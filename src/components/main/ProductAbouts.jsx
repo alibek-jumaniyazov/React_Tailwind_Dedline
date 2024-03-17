@@ -4,7 +4,7 @@ import ProductAboutTow from './ProductAboutTow'
 
 export default function ProductAbouts() {
   return (
-    <div className='ProductAbouts flex flex-col justify-center items-start gap-6'>
+    <div className='ProductAbouts w-full flex flex-col justify-center items-start gap-6'>
         <ProductAbout/>
         <ProductAboutTow/>
     </div>

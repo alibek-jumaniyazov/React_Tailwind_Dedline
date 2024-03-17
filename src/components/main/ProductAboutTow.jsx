@@ -3,16 +3,16 @@ import ArrowButton from "../ui/ArrowButton";
 import katalogImg1 from "../../assets/images/katalog1.png";
 import katalogImg2 from "../../assets/images/katalogBook.png";
 import katalogImg3 from "../../assets/images/katalogWashing.png";
-import katalogImg4 from "../../assets/images/katalog1.png";
-import katalogImg5 from "../../assets/images/katalog1.png";
-import katalogImg6 from "../../assets/images/katalog1.png";
-import katalogImg7 from "../../assets/images/katalog1.png";
-import PrezintatsiyaSale from "./PrezintatsiyaSale";
+import PrezintatsiyaSaleTow from "./PrezintatsiyaSaleTow";
+
 
 export default function ProductAboutTow() {
   return (
     <div className="ProductAbout w-full">
+      
       <div className="flex justify-between items-center">
+      <PrezintatsiyaSaleTow/>
+
         <div className=" flex justify-center items-center gap-4">
           <div className="group cursor-pointer w-80 h-[410px] flex flex-col justify-between items-center gap-3 ">
             <div className="">
@@ -52,10 +52,8 @@ export default function ProductAboutTow() {
             </div>
           </div>
         </div>
-        <PrezintatsiyaSale />
       </div>
 
-      <div className=""></div>
     </div>
   );
 }
