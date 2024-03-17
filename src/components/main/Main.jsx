@@ -5,6 +5,7 @@ import ProductAbouts from './ProductAbouts'
 import CompanyInfos from './CompanyInfos'
 import CompanyWath from './CompanyWath'
 import OrderUser from './OrderUser'
+import CompanyFriends from './CompanyFriends'
 
 export default function Main() {
   return (
@@ -15,6 +16,7 @@ export default function Main() {
         <CompanyInfos/>
         <CompanyWath/>
         <OrderUser/>
+        <CompanyFriends/>
     </div>
   )
 }
