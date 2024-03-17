@@ -1,8 +1,8 @@
 import React from 'react'
 import BannerSale from './BannerSale'
 import PagesRout from './PagesRout'
-import ProductAbout from './ProductAbout'
 import ProductAbouts from './ProductAbouts'
+import CompanyInfos from './CompanyInfos'
 
 export default function Main() {
   return (
@@ -10,6 +10,7 @@ export default function Main() {
         <BannerSale/>
         <PagesRout/>
         <ProductAbouts/>
+        <CompanyInfos/>
     </div>
   )
 }
