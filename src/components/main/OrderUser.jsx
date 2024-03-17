@@ -7,7 +7,7 @@ import chinaEar from '../../assets/icons/chinaEar.svg'
 
 export default function OrderUser() {
     return (
-        <div className="OrderUser flex flex-col gap-8 ">
+        <div className="OrderUser flex flex-col gap-8">
             <div className="flex fontBlod text-3xl gap-1">
                 <p className=" text-[#0000B0]">С заботой о клиентах</p>
             </div>
