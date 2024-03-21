@@ -35,7 +35,7 @@ export default function Navbar() {
           <img src={heart} alt="" />
         </div>
         <div className="flex justify-center items-center gap-2">
-          <div className="flex justify-center items-center w-9 h-9 rounded-full bg-[#EC1026]">
+          <div className="flex justify-center items-center w-9 h-9 rounded-full bg-main">
             <span className="text-white text-sm">3</span>
           </div>
           <p>14 619,00 ₽</p>

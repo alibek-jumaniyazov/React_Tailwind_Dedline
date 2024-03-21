@@ -9,7 +9,7 @@ export default function BannerSale() {
         <img src={arrowLeft} alt="" />
       </div>
       <div className="flex justify-center items-center gap-2 text-sm">
-        <span className="fontMedium text-[#EC1026]">30%</span>
+        <span className="fontMedium text-main">30%</span>
         <p className="fontMedium">Cкидка при первом заказе! 🎉</p>
         <button className="fontRoman text-xs text-[#222220] border border-[#222220] rounded-md px-2 py-1">
           подробнее

@@ -6,7 +6,7 @@ export default function PagesRout() {
         <p className="">Промо одежда /</p>
         <p className="">Портативные колонки /</p>
         <p className="">Беспроводная колонка Chubby /</p>
-        <span className='text-[#EC1026]'>Артикул 7557.30</span>
+        <span className='text-main'>Артикул 7557.30</span>
     </div>
   );
 }

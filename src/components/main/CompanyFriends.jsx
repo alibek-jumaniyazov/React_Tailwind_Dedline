@@ -29,7 +29,7 @@ export default function CompanyFriends() {
   return (
     <div className="CompanyFriends flex flex-col gap-8">
       <div className="flex fontBlod text-3xl gap-1">
-        <span className="text-[#E94B67]">Вы будете в БОЛЬШОЙ компании друзей</span>
+        <span className="text-donePink">Вы будете в БОЛЬШОЙ компании друзей</span>
       </div>
       <div className="flex flex-wrap justify-center items-start gap-20 -ml-28">
             <img src={Fimg1} alt="" className="" />
