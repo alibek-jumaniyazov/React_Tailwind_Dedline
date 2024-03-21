@@ -15,6 +15,9 @@ export default {
                 donePink: "#E94B67",
                 doneYellow: "#F7CE46",
             },
+            screens: {
+                mobile: "410px",
+            },
         },
     },
     plugins: [],
