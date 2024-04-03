@@ -14,16 +14,16 @@ export default function CompanyWath() {
     return (
         <div className='CompanyWath flex flex-col gap-8'>
             <div className="flex fontBlod text-3xl gap-1">
-                <span className='text-[#E94B67]'>Почему мы?</span>
-                <p className=' text-[#0000B0]'>Всё под 1 крышей!</p>
+                <span className='text-donePink'>Почему мы?</span>
+                <p className=' text-doneBlue'>Всё под 1 крышей!</p>
             </div>
             <div className="flex justify-center items-start gap-24 ml-24 ">
                 <div className="fontRoman flex flex-col justify-center items-start gap-6">
                     <div className="flex flex-col gap-4">
                         <img src={megaphone} alt="" className='w-12' />
-                        <p className='fontMedium text-[#0000B0] text-2xl'>Брендинг</p>
+                        <p className='fontMedium text-doneBlue text-2xl'>Брендинг</p>
                     </div>
-                    <ul className='text-[#0000B0] list-disc flex flex-col gap-4'>
+                    <ul className='text-doneBlue list-disc flex flex-col gap-4'>
                         <li className=""><p className="text-black">Тампопечать</p></li>
                         <li className=""><p className="text-black">Вышивка</p></li>
                         <li className=""><p className="text-black">Шелкография</p></li>
@@ -50,9 +50,9 @@ export default function CompanyWath() {
                         <div className="fontRoman flex flex-col justify-center items-start gap-6 -mt-6">
                             <div className="flex flex-col gap-4">
                                 <img src={delivery} alt="" className='w-20' />
-                                <p className='fontMedium text-[#52B5A1] text-2xl'>Логистика</p>
+                                <p className='fontMedium text-mainTow text-2xl'>Логистика</p>
                             </div>
-                            <ul className='text-[#52B5A1] list-disc flex flex-col gap-4'>
+                            <ul className='text-mainTow list-disc flex flex-col gap-4'>
                                 <li className=""><p className="text-black">Фирменная упаковка</p></li>
                                 <li className=""><p className="text-black">Бесплатная доставка</p></li>
                             </ul>
@@ -64,10 +64,10 @@ export default function CompanyWath() {
                 <div className="fontRoman flex flex-col justify-center items-start gap-6">
                     <div className="flex flex-col gap-4">
                         <img src={connectivity} alt="" className='w-14' />
-                        <p className='fontMedium text-[#F7CE46] text-2xl'>Брендинг</p>
+                        <p className='fontMedium text-doneYellow text-2xl'>Брендинг</p>
                     </div>
                     <ul className=' list-disc flex flex-col gap-4'>
-                        <li className="text-[#F7CE46]"><p className="text-black">Более 1 000 000 наименований</p></li>
+                        <li className="text-doneYellow"><p className="text-black">Более 1 000 000 наименований</p></li>
                         <div className="flex flex-wrap justify-start items-center gap-8 w-80">
                             <div className="flex justify-start items-center gap-3">
                                 <img src={russia} alt="" />
@@ -92,9 +92,9 @@ export default function CompanyWath() {
                 <div className="fontMedium flex flex-col justify-center items-start gap-6">
                     <div className="flex flex-col items-start gap-4">
                         <img src={gift} alt="" className='w-14' />
-                        <p className='fontMedium text-[#E94B67] text-2xl'>Дизайн макеты бесплатно</p>
+                        <p className='fontMedium text-donePink text-2xl'>Дизайн макеты бесплатно</p>
                         <ul className='flex flex-col gap-4'>
-                          <div className="flex justify-center items-center gap-3 text-[#0000B0] text-xl">
+                          <div className="flex justify-center items-center gap-3 text-doneBlue text-xl">
                             <img src={farme} alt="" />
                             <p>лет на рынке</p>
                           </div>

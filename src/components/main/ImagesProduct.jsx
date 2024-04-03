@@ -20,7 +20,7 @@ export default function ImagesProduct() {
       <div className="w-full flex gap-5">
         <div className="flex flex-col justify-center items-start gap-6">
           <div className="flex flex-col justify-center items-start gap-6">
-            <p className="text-[#E94B67] text-4xl fontMedium">
+            <p className="text-donePink text-4xl fontMedium">
               Сувенирная продукция
             </p>
             <span className="text-lg fontRoman w-[450px]">
